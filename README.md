@@ -1,4 +1,4 @@
-##Taban Çevirme 
+'#'Taban Çevirme 
 
 (1) - Onluk tabandaki bir sayıyı ikilik tabandaki haline dönüştürme  
 (2) - İkilik tabandaki bir sayıyı onluk tabandaki haline dönüştürme  
