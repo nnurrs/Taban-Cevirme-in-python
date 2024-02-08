@@ -1,4 +1,4 @@
-#21100011042 / Nadire Nur / Sağlam
+#Nadire Nur Sağlam
 
 while True:
     print("----------------------------------------------")
